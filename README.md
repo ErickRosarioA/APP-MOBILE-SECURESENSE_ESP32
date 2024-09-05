@@ -1,5 +1,5 @@
 # APP-MOBILE-SECURESENSE_EP32
-# Sistema de Seguridad con Detector de Campo Magnético
+## Sistema de Seguridad con Detector de Campo Magnético
 
 ## Descripción del Proyecto
 
@@ -48,7 +48,8 @@ A continuación, se muestran algunas pantallas de la aplicación:
 ![image](https://github.com/user-attachments/assets/8ef56c30-d81b-42db-9522-126e21c7c0a2)
 ![image](https://github.com/user-attachments/assets/160426b3-c531-497b-8d3a-871b596d8989)
 ![image](https://github.com/user-attachments/assets/18ee8db4-a105-4784-9417-6c13dc5927e2)
-![image](https://github.com/user-attachments/assets/186520ee-e4c3-46a6-b3d4-2410f5a2a329)
+![image](https://github.com/user-attachments/assets/87464817-c1ab-4aa6-8a1c-31fbd2db612b)
+
 
 ## Diagrama del Circuito
 ![image](https://github.com/user-attachments/assets/6c9510b8-265d-4705-bbc7-ded202a14fca)
