@@ -1,4 +1,4 @@
-# APP-MOBILE-SECURESENSE_EP32
+# APP-MOBILE-SECURESENSE_ESP32
 ## Sistema de Seguridad con Detector de Campo Magnético
 
 ## Descripción del Proyecto
@@ -57,5 +57,5 @@ A continuación, se muestran algunas pantallas de la aplicación:
 ## Contacto
 Para cualquier duda o comentario, puedes contactarme a través de [erickrosario08@outlook.com](mailto:erickrosario08@outlook.com).
 
-¡Gracias por visitar este proyecto de seguridad APP-MOBILE-SECURESENSE_EP32!
+¡Gracias por visitar este proyecto de seguridad APP-MOBILE-SECURESENSE_ESP32!
 
