@@ -1,8 +1,8 @@
 # APP-MOBILE-SECURESENSE_ESP32
 ## Sistema de Seguridad con Detector de Campo Magnético
+La aplicación móvil de seguridad detecta imanes mediante un sensor de campo magnético y envía notificaciones instantáneas al dispositivo móvil a través de Firebase cuando se detecta una violación de seguridad. Ideal para monitorear alertas en tiempo real y configurar horarios de seguridad personalizados.
 
 ## Descripción del Proyecto
-
 Este proyecto consiste en un sistema de seguridad que utiliza un detector de campo magnético para identificar la presencia de un imán. Cuando el imán es detectado, el sistema envía una señal a un servidor, el cual envía una notificación a una app móvil previamente configurada. La aplicación, conectada en tiempo real a través de Firebase, permite monitorear las alertas cuando el valor de seguridad se ve comprometido dentro de un horario establecido.
 
 ## Tecnologías Utilizadas
@@ -26,7 +26,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/ErickRosarioA/APP-MOBILE-SECURESENSE_EP32/
+   git clone https://github.com/ErickRosarioA/APP-MOBILE-SECURESENSE_ESP32.git
    
 ## Pasos para ejecutar el proyecto
 
