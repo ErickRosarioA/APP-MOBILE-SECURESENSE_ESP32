@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorPhysiConnect</string>
+    <string name="msg_token_fmt" > Token mensaje:</string>
+</resources>
