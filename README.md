@@ -26,7 +26,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/ErickRosarioA/APP-MOBILE-SECURESENSE_EP32/
+   git clone https://github.com/ErickRosarioA/APP-MOBILE-SECURESENSE_EP32.git
    
 ## Pasos para ejecutar el proyecto
 
