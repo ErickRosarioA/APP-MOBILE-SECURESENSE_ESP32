@@ -1,4 +1,4 @@
-# APP-MOBILE-SECURESENSE_ESP32
+# APP-MOBILE-SECURESENSE_EP32
 ## Sistema de Seguridad con Detector de Campo Magnético
 
 ## Descripción del Proyecto
@@ -7,7 +7,7 @@ Este proyecto consiste en un sistema de seguridad que utiliza un detector de cam
 
 ## Tecnologías Utilizadas
 
-- **Lenguajes de Programación:** Kotlin - XML
+- **Lenguajes de Programación:** Kotlin, C++
 - **Plataforma en la Nube:** Firebase
 - **Base de Datos en Tiempo Real:** Firebase Realtime Database
 - **Arquitectura de la App Móvil:** MVVM (Model-View-ViewModel)
@@ -26,7 +26,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/ErickRosarioA/APP-MOBILE-SECURESENSE_EP32.git
+   git clone https://github.com/ErickRosarioA/APP-MOBILE-SECURESENSE_EP32/
    
 ## Pasos para ejecutar el proyecto
 
@@ -57,5 +57,5 @@ A continuación, se muestran algunas pantallas de la aplicación:
 ## Contacto
 Para cualquier duda o comentario, puedes contactarme a través de [erickrosario08@outlook.com](mailto:erickrosario08@outlook.com).
 
-¡Gracias por visitar este proyecto de seguridad APP-MOBILE-SECURESENSE_ESP32!
+¡Gracias por visitar este proyecto de seguridad APP-MOBILE-SECURESENSE_EP32!
 
